@@ -1,52 +1,24 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Aditya Lanjewar — software developer: backend systems, data pipelines and practical AI" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg"><img src="./assets/header-dark.svg" width="100%" alt="Aditya Lanjewar — software developer: backend systems, data pipelines and practical AI"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/sec-about-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/sec-about-light.svg"><img src="./assets/sec-about-dark.svg" width="100%" alt="01 — Player 1"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/about-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/about-light.svg"><img src="./assets/about-dark.svg" width="100%" alt="Name: Aditya Lanjewar. Class: Software Developer. Specialty: backend systems, data pipelines, practical AI. XP: production work on Snowflake + Salesforce. Builds: AI assistants, simulations, full-stack tools. Achievement: 2nd place at the Build4SC Hackathon with TrojanClaw."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/sec-work-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/sec-work-light.svg"><img src="./assets/sec-work-dark.svg" width="100%" alt="02 — Main quests"></picture>
+<a href="https://github.com/aditya1165/TrojanClaw-Integrated"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-trojanclaw-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/card-trojanclaw-light.svg"><img src="./assets/card-trojanclaw-dark.svg" width="100%" alt="TrojanClaw — your USC semester in one chat: one sign-in connects Brightspace, Handshake, Piazza, WebReg and Google Calendar. 2nd place at Build4SC."></picture></a>
+<a href="https://github.com/aditya1165/NorthStar"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-northstar-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/card-northstar-light.svg"><img src="./assets/card-northstar-dark.svg" width="100%" alt="North Star — stadium crowd-control prototype simulating 4,000 people leaving through 8 gates, with congestion detection and operator-approved reroutes."></picture></a>
+<a href="https://github.com/aditya1165/InSync"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-insync-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/card-insync-light.svg"><img src="./assets/card-insync-dark.svg" width="100%" alt="InSync — connects GitHub PRs and Slack threads to the tasks they affect and flags breaking API changes. In progress."></picture></a>
+<a href="https://github.com/aditya1165/AI-ticket-manager"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-ticket-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/card-ticket-light.svg"><img src="./assets/card-ticket-dark.svg" width="100%" alt="AI Ticket Manager — Gemini triages tickets and a weighted scorer assigns them, with live WebSocket updates."></picture></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/sec-side-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/sec-side-light.svg"><img src="./assets/sec-side-dark.svg" width="100%" alt="03 — Side quests"></picture>
+<a href="https://github.com/odysseus-dev/odysseus/pulls?q=is%3Apr+author%3Aaditya1165"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/side-odysseus-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/side-odysseus-light.svg"><img src="./assets/side-odysseus-dark.svg" width="100%" alt="Odysseus — 3 open pull requests to a self-hosted AI workspace."></picture></a>
+<a href="https://github.com/aditya1165/tara-cafe"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/side-tara-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/side-tara-light.svg"><img src="./assets/side-tara-dark.svg" width="100%" alt="Tara Cafe — single-page site prototype for an upcoming Los Angeles catering business."></picture></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/sec-tools-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/sec-tools-light.svg"><img src="./assets/sec-tools-dark.svg" width="100%" alt="04 — Inventory"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/inventory-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/inventory-light.svg"><img src="./assets/inventory-dark.svg" width="100%" alt="Inventory: Python, TypeScript, JavaScript, React, Node.js, FastAPI, PostgreSQL, Supabase, MongoDB, Redis, Docker, Three.js, LLM APIs, Snowflake, Salesforce/Apex"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/sec-stats-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/sec-stats-light.svg"><img src="./assets/sec-stats-dark.svg" width="100%" alt="05 — High scores"></picture>
+<br><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/mini?username=aditya1165&metric=contributions&label=Contributions&style=for-the-badge&theme=gruvbox&color=b57614"><source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/mini?username=aditya1165&metric=contributions&label=Contributions&style=for-the-badge&theme=light&color=b35f00"><img src="https://ghstats.dev/api/mini?username=aditya1165&metric=contributions&label=Contributions&style=for-the-badge&theme=gruvbox&color=b57614" alt="GitHub contributions this year"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/mini?username=aditya1165&metric=prs&label=Pull%20Requests&style=for-the-badge&theme=gruvbox&color=b57614"><source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/mini?username=aditya1165&metric=prs&label=Pull%20Requests&style=for-the-badge&theme=light&color=b35f00"><img src="https://ghstats.dev/api/mini?username=aditya1165&metric=prs&label=Pull%20Requests&style=for-the-badge&theme=gruvbox&color=b57614" alt="GitHub pull requests"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/mini?username=aditya1165&metric=repos&label=Public%20Repos&style=for-the-badge&theme=gruvbox&color=b57614"><source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/mini?username=aditya1165&metric=repos&label=Public%20Repos&style=for-the-badge&theme=light&color=b35f00"><img src="https://ghstats.dev/api/mini?username=aditya1165&metric=repos&label=Public%20Repos&style=for-the-badge&theme=gruvbox&color=b57614" alt="Public GitHub repositories"></picture>
+<br><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/langs?username=aditya1165&theme=gruvbox&layout=compact"><source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/langs?username=aditya1165&theme=light&layout=compact&title_color=b35f00&border_color=e0d6c2"><img src="https://ghstats.dev/api/langs?username=aditya1165&theme=gruvbox&layout=compact" alt="Most used languages across public repositories"></picture>
+<br><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg"><img src="./assets/footer-dark.svg" width="100%" alt="Thanks for playing — star a repo to continue"></picture>
 </div>
-
-<br />
-
-<img src="./assets/sec-about.svg" width="100%" alt="01 — Player 1" />
-
-```text
-NAME ........... Aditya Lanjewar
-CLASS .......... Software Developer
-SPECIALTY ...... Backend systems · Data pipelines · Practical AI
-XP ............. Production work on Snowflake + Salesforce
-SIDE QUEST ..... Full-stack tools that make complex workflows simpler
-ACHIEVEMENT .... 2nd place — Build4SC Hackathon
-```
-
-<br />
-
-<img src="./assets/sec-work.svg" width="100%" alt="02 — Selected work" />
-
-<a href="https://github.com/aditya1165/TrojanClaw">
-  <img src="./assets/card-trojanclaw.svg" width="100%" alt="TrojanClaw — RAG pipeline for course-scoped search and summaries with Supabase pgvector. 2nd place at the Build4SC Hackathon." />
-</a>
-<a href="https://github.com/aditya1165/AI-ticket-manager">
-  <img src="./assets/card-ticket.svg" width="100%" alt="AI Ticket Manager — event-driven helpdesk with AI-assisted triage, automatic ticket assignment, real-time updates and Redis caching." />
-</a>
-<a href="https://github.com/aditya1165/odysseus">
-  <img src="./assets/card-odysseus.svg" width="100%" alt="Odysseus — merged fix that refreshes model lists when downloads finish, plus a steadier download-progress layout." />
-</a>
-
-<br /><br />
-
-<img src="./assets/sec-tools.svg" width="100%" alt="03 — Inventory" />
-
-<img src="./assets/inventory.svg" width="100%" alt="Toolkit: Python, JavaScript, TypeScript, React, Node.js, SQL, Redis, Snowflake, Salesforce/Apex" />
-
-<br /><br />
-
-<img src="./assets/sec-stats.svg" width="100%" alt="04 — High scores" />
-
-<div align="center">
-  <br />
-  <img src="https://ghstats.dev/api/mini?username=aditya1165&metric=contributions&label=Contributions&style=for-the-badge&theme=gruvbox&color=b57614" alt="GitHub contributions this year" />
-  <img src="https://ghstats.dev/api/mini?username=aditya1165&metric=prs&label=Pull%20Requests&style=for-the-badge&theme=gruvbox&color=b57614" alt="GitHub pull requests" />
-  <img src="https://ghstats.dev/api/mini?username=aditya1165&metric=repos&label=Public%20Repos&style=for-the-badge&theme=gruvbox&color=b57614" alt="Public GitHub repositories" />
-  <br /><br />
-  <img src="https://ghstats.dev/api/langs?username=aditya1165&theme=gruvbox&layout=compact" alt="Most used languages across public repositories" />
-  <br /><br />
-</div>
-
-<img src="./assets/footer.svg" width="100%" alt="Thanks for playing — star a repo to continue" />
